@@ -18,6 +18,7 @@ Chapter 2 - Optimising Machine Learning Predictions
 
 Chapter 3 - Using antibody encodings to predict thermostability with experimental values
 + Generate Amino Acid Composition Encodings with Propythia
++ Test with linear model
 + Build Keras model
 + Evaluate performance
 + Testing model on naive dataset
