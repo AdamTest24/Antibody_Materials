@@ -1,5 +1,6 @@
 Chapter 1 - Introduction to encoding Protein Sequences for Machine Learning
 + Introduction
++ Generate Amino Acid Composition Encodings with Kidera factors
 + Generate Amino Acid Composition Encodings with Propythia
 + Introduction to supervised learning classifiers
 + Train classifiers on model 
